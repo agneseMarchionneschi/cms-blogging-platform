@@ -1,0 +1,247 @@
+/*************** index ******************/
+body{
+	font-family: "Poppins";
+text-align: center;
+}
+.navbar{
+	background-color: white!important;
+}
+
+.navbar-brand{
+margin-left: 1em;
+background-color: white;
+}
+.navbar-light .navbar-nav .nav-link 
+{
+	font-size: 18px;
+	color: black;
+	background-color: white;
+}
+#carta{
+	width: 300px!important;
+	height:550px;
+	margin-top: 3em;
+	padding: 1em;
+}
+.card-img-top{
+	width: 200px;
+	height:216px;
+	margin-left: 1.5em;
+
+}
+.card-img-top2{
+	width: 220px;
+	height:216px;
+	margin-top: 1em;
+	margin-right: 1em;
+}
+.card-img-top1{
+	margin-top: 1.5em;
+}
+.card-img-top12{
+	width: 240px;
+	height:213px;
+	padding-left: 10px;
+}
+
+.card-title1{
+font-size: 1em;
+}
+
+#about{
+
+	margin-right: 3em;
+	text-align: justify;
+	background-color: white;
+	border: none;
+}
+#ca{
+	margin-top: 3em;
+	margin-left: 20px
+	margin-right: 10px;
+}
+#italic{
+
+	text-align: center;
+	background-color: white;
+}
+.carouselExampleSlidesOnly{
+	position: absolute;
+}
+.btn:hover{
+	background-color: grey;
+	text-decoration-color: white;
+	border-color: grey;
+	border: none;
+
+}
+.btn{
+	border: none;
+}
+.btn-primary {
+	background-color: black;
+}
+#fot{
+
+	margin-top: 15em;
+	margin-left: -5em;
+	margin-right: -5em;
+}
+
+#foto{
+	width: 1520px!important;
+	height: 650px;
+	margin-left: 0em;
+	text-align: center;
+	
+}
+.card{
+	margin-top: 2em;
+	padding: 1em;
+
+	margin-left: -1.8em;
+}
+#carta{
+	margin-left: -1.8em;
+}
+.cre{
+	margin-top: -10px;
+	text-align: left;
+	font-size: 5em;
+	margin-bottom: 25px;
+	word-spacing: 24px;
+}
+.test1{
+	text-align: left;
+	font-size: 1.5em;
+	line-height: 45px;
+}
+.row{
+	margin-left: -6em;
+}
+#it{
+font-size: 16px;
+line-height: 30px;
+}
+/*************** index -end ******************/
+
+/*************** visualizzaBlog ******************/
+#bod{
+	margin-top: -1em;
+	margin-left: -1.5em;
+}
+.inpu{
+	margin-left: 2.5em;
+}
+#visu{
+
+  transition: transform .2s; /* Animation */
+	width: 18rem;
+	height: 31rem;
+	margin-bottom: 15px;
+	margin-left: 5em;
+	 margin-top: 0;
+	float: left;
+
+}
+
+
+#visu:hover {
+  transform: scale(1.15); /* (150% zoom)*/
+}
+
+#hero{
+    width: 100%;
+    height: 80vh;
+    background: url(img/create1.jpg) top center;
+    background-size: cover;
+    position: relative;
+}
+.content-title{
+	text-align: center;
+	margin-left: 5em;
+	padding-bottom: 1em;
+
+}
+#vie{
+	border:none;
+	position: fixed;
+	margin-left: 2.5rem;
+}
+.fotor{
+	margin-top: 130rem;
+}
+#divis{
+	margin-left: 10em!important;
+}
+#us{
+  margin-left: 38px!important;
+}
+#btp{
+
+	margin-top: 5px;
+	margin-bottom: 4px;
+}
+#btpp{
+margin-top: 10px;
+margin-left: 3em;
+text-align: center;
+	margin-bottom: 4px;
+}
+
+
+
+/*************** visualizzaBlog - end ******************/
+/*************** visualizzaPOST - start ******************/
+.fotorix{
+	margin-top: 250rem;
+}
+#btpp1{
+margin-top: 10px;
+
+text-align: center;
+	margin-bottom: 4px;
+}
+#sea1{
+margin-right: 20px;
+}
+.full-post-div{
+	background-color: #e6e6e6;
+	margin-left: 8em;
+	margin-right: 8em;
+	border: black 2px solid;
+	padding-bottom: 2em;
+	padding-top: 1em;
+}
+.post-body-div{
+	margin-right: 1em;
+	margin-left: 1em;
+	margin-top: 1.5em;
+}
+.comments{
+	margin-left: 8em;
+	margin-right: 8em;
+	text-align: left;
+}
+.like{
+	text-align: left;
+	margin-left: 6.8em;
+	font-size: larger;
+}
+.post-title{
+	font-size: 45px;
+	margin-top: 10px;
+}
+.singlepostImage{
+	max-width: 450px;
+	max-height: 350px;
+}
+.commenttxt{
+	width: 15em;
+}
+.personalBlogInfo{
+	margin-bottom: 3em;
+}
+.pBlog{
+	font-size: 25px;
+}

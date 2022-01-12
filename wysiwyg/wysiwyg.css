@@ -1,0 +1,37 @@
+.input-icons i { 
+  position: absolute; 
+  pointer-events: none;
+  font-size: 0.7em;
+} 
+
+.input-icons { 
+  border:#000000 1px solid;
+  width: 99.5%; 
+  margin: 1% 0 1% 0; 
+} 
+#line2{
+  padding: 1%;
+  margin: auto;
+}
+
+.icon { 
+   padding:6px;
+  
+} 
+.line{
+  width: 99%;
+  padding: 1% 0.5% 1% 0.5%;
+  border-bottom: 1px solid black;
+}
+
+.input-field { 
+  height:22px;
+  width: 22px; 
+  padding: 6px; 
+  text-align: center; 
+} 
+form {
+  width: 50%;
+  margin-left: 25%;
+  margin-right: 25%;
+}
